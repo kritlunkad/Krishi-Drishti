@@ -1,0 +1,120 @@
+{
+    "language_selector": {
+      "label": "भाषा चुनें",
+      "english": "अंग्रेजी",
+      "hindi": "हिन्दी"
+    },
+    "login": {
+      "title": "लॉगिन",
+      "aadhar_label": "आधार नंबर",
+      "aadhar_placeholder": "आधार नंबर दर्ज करें",
+      "password_label": "पासवर्ड",
+      "password_placeholder": "पासवर्ड दर्ज करें",
+      "login_button": "लॉगिन",
+      "register_button": "रजिस्टर",
+      "error_invalid_credentials": "अमान्य आधार नंबर या पासवर्ड",
+      "error_aadhar_missing": "आधार नंबर आवश्यक है",
+      "error_password_missing": "पासवर्ड आवश्यक है",
+      "error_login_failed": "लॉगिन विफल। कृपया पुनः प्रयास करें।",
+      "error_register_failed": "रजिस्ट्रेशन विफल। कृपया पुनः प्रयास करें।"
+    },
+    "form": {
+      "title": "किसान जानकारी फॉर्म",
+      "error_aadhar_missing": "आगे बढ़ने के लिए आधार नंबर आवश्यक है",
+      "speech_not_supported": "आपका ब्राउज़र वाक् पहचान का समर्थन नहीं करता",
+      "select_placeholder": "एक विकल्प चुनें",
+      "speak_button": "बोलें",
+      "stop_button": "रुकें",
+      "next_button": "अगला",
+      "submit_button": "जमा करें",
+      "fields": {
+        "name": "नाम",
+        "Location": "स्थान",
+        "Crops Grown": "उगाई गई फसलें",
+        "Soil Type": "मिट्टी का प्रकार",
+        "IrrigationSystem": "सिंचाई प्रणाली",
+        "Farm Type": "खेत का प्रकार",
+        "postContent": "पिछली बीमारियाँ या लक्षण",
+        "OrganicFarming": "जैविक खेती",
+        "Extra Farm Type": "अतिरिक्त खेत का प्रकार",
+        "cweather": "हाल का मौसम",
+        "anyimp": "कोई अन्य जानकारी"
+      },
+      "options": {
+        "IrrigationSystem": {
+          "Drip": "ड्रिप",
+          "Sprinkler": "स्प्रिंकलर",
+          "Surface": "सतह",
+          "Manual": "मैनुअल"
+        },
+        "OrganicFarming": {
+          "Fully Organic": "पूर्ण रूप से जैविक",
+          "Partial Organic": "आंशिक रूप से जैविक",
+          "Not Organic": "गैर-जैविक"
+        }
+      }
+    },
+    "submitted": {
+      "farmer_data_title": "किसान डेटा",
+      "no_farmer_data": "कोई किसान डेटा उपलब्ध नहीं",
+      "image_analysis_title": "छवि विश्लेषण",
+      "no_file_selected": "कृपया अपलोड करने के लिए एक फाइल चुनें",
+      "uploading": "अपलोड हो रहा है...",
+      "upload_button": "अपलोड",
+      "latest_result_title": "नवीनतम परिणाम",
+      "disease_label": "रोग",
+      "confidence_label": "विश्वास",
+      "copy_button": "कॉपी",
+      "copied": "कॉपी किया गया!",
+      "save_button": "पहचान सहेजें",
+      "past_detections_title": "पिछली पहचान",
+      "no_detections": "कोई पिछली पहचान उपलब्ध नहीं",
+      "chat_button": "चैटबॉट पर जाएं",
+      "map_editor_button": "नक्शा संपादक पर जाएं",
+      "error_fetch_history": "इतिहास प्राप्त करने में विफल",
+      "error_upload_failed": "छवि अपलोड करने में विफल",
+      "error_save_failed": "पहचान सहेजने में विफल",
+      "error_invalid_result": "अमान्य पहचान परिणाम",
+      "error_aadhar_missing": "आधार नंबर अनुपस्थित है",
+      "error_save_farmer": "किसान डेटा सहेजने में विफल"
+    },
+    "chatbot": {
+      "title": "कृषि चैटबॉट",
+      "placeholder": "अपने खेत के बारे में प्रश्न पूछें...",
+      "sending": "भेजा जा रहा है...",
+      "send_button": "भेजें",
+      "speak_button": "बोलें",
+      "stop_button": "रुकें",
+      "latest_response_title": "नवीनतम प्रतिक्रिया",
+      "question_label": "प्रश्न",
+      "answer_label": "उत्तर",
+      "past_chats_title": "पिछली चैट",
+      "no_chats": "कोई पिछली चैट उपलब्ध नहीं",
+      "back_button": "रोग पहचान पर वापस",
+      "speech_not_supported": "आपका ब्राउज़र वाक् पहचान का समर्थन नहीं करता",
+      "error_fetch_history": "चैट इतिहास प्राप्त करने में विफल",
+      "error_chat_failed": "चैट अनुरोध को संसाधित करने में विफल",
+      "error_chat_request": "चैटबॉट अनुरोध में त्रुटि"
+    },
+    "map": {
+      "draw_boundary": "सीमा बनाएं",
+      "draw_crop": "फसल क्षेत्र बनाएं",
+      "add_comment": "टिप्पणी जोड़ें",
+      "crop_type_wheat": "गेहूं",
+      "crop_type_corn": "मक्का",
+      "crop_type_soybeans": "सोयाबीन",
+      "disease_comment_placeholder": "रोग टिप्पणी दर्ज करें",
+      "save_comment": "टिप्पणी सहेजें",
+      "save_map": "नक्शा सहेजें",
+      "load_map": "नक्शा लोड करें",
+      "disease_detection": "रोग पहचान",
+      "chatbot": "चैटबॉट",
+      "tooltip_crop": "फसल",
+      "tooltip_disease": "रोग",
+      "tooltip_none": "कोई नहीं",
+      "alert_comment_saved": "टिप्पणी सफलतापूर्वक सहेजी गई!",
+      "alert_select_region": "कृपया पहले फसल क्षेत्र चुनें।",
+      "alert_map_saved": "नक्शा सफलतापूर्वक सहेजा गया!",
+      "alert_map_loaded": "नक्शा सफलतापूर्वक लोड किया गया!"
+    }
+  }

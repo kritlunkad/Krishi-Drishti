@@ -1,0 +1,120 @@
+{
+    "language_selector": {
+      "label": "Select Language",
+      "english": "English",
+      "hindi": "Hindi"
+    },
+    "login": {
+      "title": "Login",
+      "aadhar_label": "Aadhar Number",
+      "aadhar_placeholder": "Enter Aadhar Number",
+      "password_label": "Password",
+      "password_placeholder": "Enter Password",
+      "login_button": "Login",
+      "register_button": "Register",
+      "error_invalid_credentials": "Invalid Aadhar number or password",
+      "error_aadhar_missing": "Aadhar number is required",
+      "error_password_missing": "Password is required",
+      "error_login_failed": "Login failed. Please try again.",
+      "error_register_failed": "Registration failed. Please try again."
+    },
+    "form": {
+      "title": "Farmer Information Form",
+      "error_aadhar_missing": "Aadhar number is required to proceed",
+      "speech_not_supported": "Your browser does not support speech recognition",
+      "select_placeholder": "Select an option",
+      "speak_button": "Speak",
+      "stop_button": "Stop",
+      "next_button": "Next",
+      "submit_button": "Submit",
+      "fields": {
+        "name": "Name",
+        "Location": "Location",
+        "Crops Grown": "Crops Grown",
+        "Soil Type": "Soil Type",
+        "IrrigationSystem": "Irrigation System",
+        "Farm Type": "Farm Type",
+        "postContent": "Previous Diseases or Symptoms",
+        "OrganicFarming": "Organic Farming",
+        "Extra Farm Type": "Extra Farm Type",
+        "cweather": "Recent Weather",
+        "anyimp": "Any Other Information"
+      },
+      "options": {
+        "IrrigationSystem": {
+          "Drip": "Drip",
+          "Sprinkler": "Sprinkler",
+          "Surface": "Surface",
+          "Manual": "Manual"
+        },
+        "OrganicFarming": {
+          "Fully Organic": "Fully Organic",
+          "Partial Organic": "Partial Organic",
+          "Not Organic": "Not Organic"
+        }
+      }
+    },
+    "submitted": {
+      "farmer_data_title": "Farmer Data",
+      "no_farmer_data": "No farmer data available",
+      "image_analysis_title": "Image Analysis",
+      "no_file_selected": "Please select a file to upload",
+      "uploading": "Uploading...",
+      "upload_button": "Upload",
+      "latest_result_title": "Latest Result",
+      "disease_label": "Disease",
+      "confidence_label": "Confidence",
+      "copy_button": "Copy",
+      "copied": "Copied!",
+      "save_button": "Save Detection",
+      "past_detections_title": "Past Detections",
+      "no_detections": "No past detections available",
+      "chat_button": "Go to Chatbot",
+      "map_editor_button": "Go to Map Editor",
+      "error_fetch_history": "Failed to fetch history",
+      "error_upload_failed": "Failed to upload image",
+      "error_save_failed": "Failed to save detection",
+      "error_invalid_result": "Invalid detection result",
+      "error_aadhar_missing": "Aadhar number is missing",
+      "error_save_farmer": "Failed to save farmer data"
+    },
+    "chatbot": {
+      "title": "Agricultural Chatbot",
+      "placeholder": "Ask a question about your farm...",
+      "sending": "Sending...",
+      "send_button": "Send",
+      "speak_button": "Speak",
+      "stop_button": "Stop",
+      "latest_response_title": "Latest Response",
+      "question_label": "Question",
+      "answer_label": "Answer",
+      "past_chats_title": "Past Chats",
+      "no_chats": "No past chats available",
+      "back_button": "Back to Disease Detection",
+      "speech_not_supported": "Your browser does not support speech recognition",
+      "error_fetch_history": "Failed to fetch chat history",
+      "error_chat_failed": "Failed to process chat request",
+      "error_chat_request": "Error in chatbot request"
+    },
+    "map": {
+      "draw_boundary": "Draw Boundary",
+      "draw_crop": "Draw Crop Region",
+      "add_comment": "Add Comment",
+      "crop_type_wheat": "Wheat",
+      "crop_type_corn": "Corn",
+      "crop_type_soybeans": "Soybeans",
+      "disease_comment_placeholder": "Enter disease comment",
+      "save_comment": "Save Comment",
+      "save_map": "Save Map",
+      "load_map": "Load Map",
+      "disease_detection": "Disease Detection",
+      "chatbot": "Chatbot",
+      "tooltip_crop": "Crop",
+      "tooltip_disease": "Disease",
+      "tooltip_none": "None",
+      "alert_comment_saved": "Comment saved successfully!",
+      "alert_select_region": "Please select a crop region first.",
+      "alert_map_saved": "Map saved successfully!",
+      "alert_map_loaded": "Map loaded successfully!"
+    }
+  }
